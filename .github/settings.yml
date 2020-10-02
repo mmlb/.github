@@ -1,0 +1,7 @@
+repository:
+  default_branch: main
+
+labels:
+  - name: ":bug:"
+    color: ffffff
+    description: A bug
