@@ -2,6 +2,9 @@ repository:
   default_branch: main
 
 labels:
+  - name: ":bug:"
+    color: ffffff
+    description: A bug
   - name: ":shipit:"
     color: 00ff00
     description: Ship it
