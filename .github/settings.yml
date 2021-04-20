@@ -13,3 +13,6 @@ labels:
   - name: ":x:"
     color: ffffff
     description: Nope!
+
+  - name: ":sos:"
+    description: request for help
