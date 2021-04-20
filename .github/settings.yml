@@ -3,8 +3,9 @@ repository:
 
 labels:
   - name: ":bug:"
-    color: ffffff
+    color: ff0000
     description: A bug
+
   - name: ":shipit:"
     color: 00ff00
     description: Ship it
